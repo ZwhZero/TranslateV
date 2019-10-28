@@ -1,8 +1,8 @@
 # my-project
 
 > A Vue.js project
-> A Translate tool
-> The api of Japanese can't work...I want to know why...
+Is is a Translate tool.
+The api of Japanese can't work...I want to know why...
 
 ## Build Setup
 
