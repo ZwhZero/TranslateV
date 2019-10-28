@@ -1,8 +1,8 @@
 # my-project
 
-> A Vue.js project
-Is is a Translate tool.
-The api of Japanese can't work...I want to know why...
+> A Vue.js project.|
+It is a Translate tool.|
+The api of Japanese can't work...|I want to know why...
 
 ## Build Setup
 
